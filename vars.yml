@@ -1,5 +1,5 @@
-studentid: << Student ID Number >>
-studentrouter: <<Router Hostname >>
+studentid: 117
+studentrouter: R117
 ansible_network_os: ios
 dns_servers:
   - 8.8.8.8
