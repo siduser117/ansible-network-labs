@@ -8,7 +8,7 @@ cisco
 juniper
 
 [cisco]
-R117 ansible_host=10.1.117.10
+R126 ansible_host=10.1.126.10
 
 [cisco:vars]
 ansible_network_os=ios
